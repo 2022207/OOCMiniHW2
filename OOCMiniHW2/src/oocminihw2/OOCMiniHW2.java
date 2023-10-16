@@ -9,7 +9,7 @@ package oocminihw2;
  *
  * @author sweiss
  */
-public class OOCMiniHW2 extends Vehicle {
+public class OOCMiniHW2 {
     
 
     /**
